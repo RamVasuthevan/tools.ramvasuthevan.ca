@@ -57,3 +57,5 @@ server {
         proxy_set_header X-Forwarded-Proto $scheme;
     }
 }
+
+https://chatgpt.com/c/057240b1-80f4-441f-ae63-74ee062633a5
